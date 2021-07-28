@@ -16,6 +16,7 @@
 		0CA5E33626B19DA2002E6501 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0CA5E33426B19DA2002E6501 /* LaunchScreen.storyboard */; };
 		0CA5E34126B19DA3002E6501 /* StoryBoardIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA5E34026B19DA3002E6501 /* StoryBoardIntroTests.swift */; };
 		0CA5E34C26B19DA3002E6501 /* StoryBoardIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA5E34B26B19DA3002E6501 /* StoryBoardIntroUITests.swift */; };
+		0CA5E35D26B1B216002E6501 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0CA5E35C26B1B216002E6501 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		0CA5E34726B19DA3002E6501 /* StoryBoardIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StoryBoardIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CA5E34B26B19DA3002E6501 /* StoryBoardIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryBoardIntroUITests.swift; sourceTree = "<group>"; };
 		0CA5E34D26B19DA3002E6501 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0CA5E35C26B1B216002E6501 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				0CA5E32626B19DA0002E6501 /* AppDelegate.swift */,
 				0CA5E32826B19DA0002E6501 /* SceneDelegate.swift */,
 				0CA5E32A26B19DA0002E6501 /* ViewController.swift */,
+				0CA5E35C26B1B216002E6501 /* File.swift */,
 				0CA5E32C26B19DA0002E6501 /* Main.storyboard */,
 				0CA5E33226B19DA2002E6501 /* Assets.xcassets */,
 				0CA5E33426B19DA2002E6501 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0CA5E35D26B1B216002E6501 /* File.swift in Sources */,
 				0CA5E32B26B19DA0002E6501 /* ViewController.swift in Sources */,
 				0CA5E33126B19DA0002E6501 /* StoryBoardIntro.xcdatamodeld in Sources */,
 				0CA5E32726B19DA0002E6501 /* AppDelegate.swift in Sources */,
